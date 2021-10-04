@@ -1,3 +1,3 @@
-# dummy-project
+# Simple Blog
 
-project untuk kelompok matkul MPSI
+project dummy untuk kelompok MPSI
